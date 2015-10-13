@@ -273,7 +273,7 @@
 							</images>
 						</configuration>
 					</execution>
-					 <execution>
+					<!-- <execution>
 						<id>tag</id>
 						<goals>
 							<goal>tag-images</goal>
@@ -289,7 +289,7 @@
 								</image>
 							</images>
 						</configuration>
-					</execution> 
+					</execution> -->
 					
 					<execution>
 						<id>push</id>
